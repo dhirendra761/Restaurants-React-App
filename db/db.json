@@ -1,0 +1,67 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Delhi",
+      "rating": "3.2",
+      "email": "dominos@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Burger King Hut",
+      "address": "Gr Noida",
+      "rating": "2.5",
+      "email": "burgerking@test.com"
+    },
+    {
+      "id": 4,
+      "name": "MacDonald",
+      "address": "Ghaziabad",
+      "rating": "1.8",
+      "email": "macdonald@test.com"
+    },
+    {
+      "name": "Mac",
+      "email": "mac@test.com",
+      "address": "Delhi",
+      "rating": "1",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Burger Roll",
+      "address": "Noida",
+      "rating": "2.2",
+      "email": "roll@test.com"
+    },
+    {
+      "name": "Mac",
+      "email": "mac@test.com",
+      "address": "Delhi",
+      "rating": "1",
+      "id": 7
+    },
+    {
+      "name": "Mac",
+      "email": "mac@test.com",
+      "address": "Delhi",
+      "rating": "2.6",
+      "id": 8
+    },
+    {
+      "name": "eeee",
+      "email": "ee",
+      "address": "eeee",
+      "rating": "2",
+      "id": 9
+    }
+  ]
+}
